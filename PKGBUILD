@@ -28,9 +28,9 @@ if [[ $INSTALL == 0 ]]; then
 else
 
   pkgname=texlive-upstream
-  pkgver=3
+  pkgver=4
   pkgrel=1
-  pkgdesc="Install UPSTEAM by hand and REPLACE the distro packages COMPLETELY"
+  pkgdesc="Install UPSTREAM TeXLive by hand and REPLACE the distro packages COMPLETELY"
   url="http://www.tug.org/texlive/"
   arch=('any')
   license=('GPL')
